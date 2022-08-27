@@ -36,7 +36,7 @@ const Weather = (props) => {
     >
       <View
         style={{
-          backgroundColor: "rgba(52, 52, 52, 0.8)",
+          backgroundColor: "rgba(82, 22, 52, 0.8)",
           width: "100%",
           height: "40%",
           paddingTop: 40,
